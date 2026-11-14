@@ -1,0 +1,23 @@
+{
+    "name": "MM1.Launcher",
+    "rootNamespace": "MythMerge",
+    "references": [
+        "UniTask",
+        "YooAsset",
+        "HybridCLR.Runtime",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "MM1.Framework",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,5 @@
+{
+    "name": "MythMerge.Editor",
+    "references": ["MM1.HotUpdate", "MM1.Launcher", "YooAsset", "YooAsset.Editor", "HybridCLR.Editor"],
+    "includePlatforms": ["Editor"]
+}

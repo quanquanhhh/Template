@@ -1,0 +1,6 @@
+{
+    "name": "MM1.Framework",
+    "references": [
+        "UnityEngine.UI"
+    ]
+}

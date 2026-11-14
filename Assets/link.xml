@@ -1,0 +1,4 @@
+<linker>
+  <!-- Launcher reflects hot GameApp; retain startup configuration and manifest data in AOT. -->
+  <assembly fullname="MM1.Launcher" preserve="all" />
+</linker>
